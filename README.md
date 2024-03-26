@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib(" ????? HUB - Westbound Script V.0.0.1", "Ocean")
+local Window = Library.CreateLib(" ????? HUB - Westbound Script V.0.0.1 Fix bugg", "Ocean")
 local Tab = Window:NewTab("Main")
 local Section = Tab:NewSection("- Farm -")
 
